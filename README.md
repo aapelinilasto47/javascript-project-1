@@ -71,13 +71,4 @@ Julkaistu: **Netlifyssä ja Githubissa**
 
 ---
 
-## 📸 Kuvankaappaus (valinnainen)
-
-Lisää tänne kuvakaappaus pelistä, esimerkiksi:
-```
-![Triviapeli kuvankaappaus](./screenshot.png)
-```
-
----
-
 ✨ *Hauskoja pelihetkiä ja onnea tietovisailuun!*
