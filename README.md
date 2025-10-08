@@ -47,7 +47,9 @@ Jos pelaajan pistemäärä on parempi kuin yksi top 5 -tuloksista, hänen tuloks
 
 
 **HTML5**                     Sivun rakenne
+
 **CSS3**                      Ulkoasu ja muotoilu
+
 **JavaScript (ES6)**          Pelilogiikka ja Local Storage -toiminnallisuus
 
 ---
