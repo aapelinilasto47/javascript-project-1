@@ -33,12 +33,11 @@ Oppimistani tukisi jos kurssin toimintatavat pysyisivät samanlaisina.
 - [Lisenssi](#lisenssi)
 
 ## Tietoja sovelluksesta
-[Projektin nimi] on sovellus, joka esittää käyttäjälle triviakysymyksiä ja tallentaa tulokset top5 taulukkoon.
+[Trivia-peli] on sovellus, joka esittää käyttäjälle triviakysymyksiä ja tallentaa tulokset top5 taulukkoon.
 
 ## Tunnetut virheet/bugit
-Kerro jos tiedät sovelluksessa olevan jotain, mikä ei toimi tai toimii heikosti
 
-Joskus localstorage tyhjentyy itsekseen, en ole varma mistä johtuu? Käyttäjä voi myös korvata toisen käyttäjän tuloksen käyttämällä samaa käyttäjänimeä, mikä ei sinänsä ole bugi mutta ei paras tapa säilyttää tietoja. Kuitenkin päätavoitteenani tässä oli oppia käyttämään DOM-skriptausta ja localstoragea.
+Joskus localstorage tyhjentyy itsekseen, en ole varma mistä johtuu? Käyttäjä voi myös korvata toisen käyttäjän tuloksen käyttämällä samaa käyttäjänimeä, mikä ei sinänsä ole bugi, mutta ei paras tapa säilyttää tietoja. Kuitenkin päätavoitteenani tässä oli oppia käyttämään DOM-skriptausta ja localstoragea ja onnistuin mielessäni niissä.
 
 ## Kuvakaappaukset
 Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
@@ -46,24 +45,26 @@ Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta
 ![kuva 2](https://github.com/aapelinilasto47/javascript-project-1/blob/main/N%C3%A4ytt%C3%B6kuva%202025-10-13%20133325.png?raw=true)
 
 ## Teknologiat
-Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.  
+
 Käytin seuraavia teknologioita: `html`, `css`, `javascript`
+
 HTML:ää käytin sivun rakenteen luomiseen.
+
 CSS:ää käytin sivun tyylitelyyn.
+
 Javascriptiä käytin luomaan kaiken muun, esimerkiksi seuraavan kysymyksen ilmestymisen ja vastausten tarkistuksen.
 
 ## Asennus
-lataa tiedostot kansiosta ja avaa index.html tiedosto yksityisessä selaimessa.
-vaihtoehtoisesti voit tutustua sovellukseen Netlify-sivun kautta: https://aapelinilasto.netlify.app/
+
+Lataa tiedostot kansiosta ja avaa index.html tiedosto yksityisessä selaimessa.
+Vaihtoehtoisesti voit tutustua sovellukseen Netlify-sivun kautta: https://aapelinilasto.netlify.app/
 
 ## Kiitokset
-Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
+
 - [www.chatgpt.com](https://chatgpt.com/)
 käytin ChatGPT:tä joidenkin bugien etsimiseen ja kysymysten luomiseen.
 - [Github Copilot]
 käytin Github Copilotia koodini tarkistukseen ja komentojeni automaattiseen täyttöön. 
 
 ## Lisenssi
-Valitse projektille lisenssi seuraamalla tätä [opasta](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
-
-Esimerkki: MIT-lisenssi @ [tekijä](author.com)
+MIT-lisenssi @ [tekijä](https://github.com/aapelinilasto47/javascript-project-1/blob/main/LICENSE)
