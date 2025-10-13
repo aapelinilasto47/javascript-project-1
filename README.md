@@ -24,7 +24,7 @@ Oppimistani tukisi jos kurssin toimintatavat pysyisivät samanlaisina.
 ## Sisällysluettelo:
 
 - [Tietoja sovelluksesta](#tietoja-sovelluksesta)
-- [Tunnetut virheet/bugit](#Tunnetut virheet/bugit)
+- [Tunnetut virheet tai bugit](#Tunnetut-virheet-tai-bugit)
 - [Kuvakaappaukset](#kuvakaappaukset)
 - [Teknologiat](#teknologiat)
 - [Asennus](#asennus)
@@ -42,8 +42,8 @@ Joskus localstorage tyhjentyy itsekseen, en ole varma mistä johtuu? Käyttäjä
 
 ## Kuvakaappaukset
 Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
-![kuva 1](C:\Users\aapel\javascript-project-1\Näyttökuva 2025-10-13 133325.png)
-![kuva 2](C:\Users\aapel\javascript-project-1\Näyttökuva 2025-10-13 133304.png)
+![kuva 1](https://github.com/aapelinilasto47/javascript-project-1/blob/main/N%C3%A4ytt%C3%B6kuva%202025-10-13%20133304.png?raw=true)
+![kuva 2](https://github.com/aapelinilasto47/javascript-project-1/blob/main/N%C3%A4ytt%C3%B6kuva%202025-10-13%20133325.png?raw=true)
 
 ## Teknologiat
 Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.  
