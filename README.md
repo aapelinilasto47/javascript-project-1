@@ -3,6 +3,7 @@ Trivia-peli - Aapeli Nilasto
 
 ## Verkkolinkit:
 Pääset julkaistuun sovellukseen käsiksi osoitteessa https://aapelinilasto.netlify.app/
+
 Linkki projektin videoesittelyyn https://youtu.be/zjlsyEoNgNc
 
 ## Työn jakautuminen 
@@ -28,7 +29,6 @@ Oppimistani tukisi jos kurssin toimintatavat pysyisivät samanlaisina.
 - [Kuvakaappaukset](#kuvakaappaukset)
 - [Teknologiat](#teknologiat)
 - [Asennus](#asennus)
-- [Lähestymistapa](#lähestymistapa)
 - [Kiitokset](#kiitokset)
 - [Lisenssi](#lisenssi)
 
@@ -40,7 +40,7 @@ Oppimistani tukisi jos kurssin toimintatavat pysyisivät samanlaisina.
 Joskus localstorage tyhjentyy itsekseen, en ole varma mistä johtuu? Käyttäjä voi myös korvata toisen käyttäjän tuloksen käyttämällä samaa käyttäjänimeä, mikä ei sinänsä ole bugi, mutta ei paras tapa säilyttää tietoja. Kuitenkin päätavoitteenani tässä oli oppia käyttämään DOM-skriptausta ja localstoragea ja onnistuin mielessäni niissä.
 
 ## Kuvakaappaukset
-Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
+
 ![kuva 1](https://github.com/aapelinilasto47/javascript-project-1/blob/main/N%C3%A4ytt%C3%B6kuva%202025-10-13%20133304.png?raw=true)
 ![kuva 2](https://github.com/aapelinilasto47/javascript-project-1/blob/main/N%C3%A4ytt%C3%B6kuva%202025-10-13%20133325.png?raw=true)
 
