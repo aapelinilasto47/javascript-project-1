@@ -24,7 +24,7 @@ Oppimistani tukisi jos kurssin toimintatavat pysyisivät samanlaisina.
 ## Sisällysluettelo:
 
 - [Tietoja sovelluksesta](#tietoja-sovelluksesta)
-- [Tunnetut virheet/bugit](#Tunnetut virheet/bugit)
+- [Tunnetut virheet tai bugit](#Tunnetut-virheet-tai-bugit)
 - [Kuvakaappaukset](#kuvakaappaukset)
 - [Teknologiat](#teknologiat)
 - [Asennus](#asennus)
@@ -35,7 +35,7 @@ Oppimistani tukisi jos kurssin toimintatavat pysyisivät samanlaisina.
 ## Tietoja sovelluksesta
 [Projektin nimi] on sovellus, joka esittää käyttäjälle triviakysymyksiä ja tallentaa tulokset top5 taulukkoon.
 
-## Tunnetut virheet/bugit
+## Tunnetut virheet tai bugit
 Kerro jos tiedät sovelluksessa olevan jotain, mikä ei toimi tai toimii heikosti
 
 Joskus localstorage tyhjentyy itsekseen, en ole varma mistä johtuu? Käyttäjä voi myös korvata toisen käyttäjän tuloksen käyttämällä samaa käyttäjänimeä, mikä ei sinänsä ole bugi mutta ei paras tapa säilyttää tietoja. Kuitenkin päätavoitteenani tässä oli oppia käyttämään DOM-skriptausta ja localstoragea.
